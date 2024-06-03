@@ -1,0 +1,1 @@
+docker build -t pangyuteng/docker-novnc:latest .
